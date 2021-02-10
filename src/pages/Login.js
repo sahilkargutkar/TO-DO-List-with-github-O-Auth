@@ -62,7 +62,7 @@ export default function Login() {
         <button type="submit">Login</button>
       </form>
 
-      <a href="https://github.com/login/oauth/authorize?client_id=">Sign in with Github</a>  
+      <a href="https://github.com/login/oauth/authorize?client_id=87d377c614161adb78e6">Sign in with Github</a>  
     </div>
   );
 }

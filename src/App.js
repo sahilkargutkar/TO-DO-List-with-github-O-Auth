@@ -26,6 +26,9 @@ function App() {
           <Route exact path="/login">
             <Login />
           </Route>
+          <Route exact path="/user/signin/callback" component={Login}>
+            <Login />
+          </Route>
         </Switch>
       </Router>
 
